@@ -6,6 +6,17 @@
 }
 
 body{
-    background-color: #b7f476;
+    background-color: #85be51;
     height: 100vh;
+}
+
+header {
+    background-color: #008000;
+    width: 100%;
+    height: 5%;   
+}
+
+button {
+    border-color: #015401;
+    border-radius: 3;
 }
