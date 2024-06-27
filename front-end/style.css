@@ -1,0 +1,11 @@
+/* Estilo Geral */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #b7f476;
+    height: 100vh;
+}
